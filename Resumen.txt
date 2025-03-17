@@ -1,0 +1,1 @@
+La practica 0 solo conciste en creaar una practica vacia en Android Studio y que la pantalla principal diga "Hola Mundo!"
